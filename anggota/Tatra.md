@@ -1,0 +1,4 @@
+- Nama: Yanuatius Tatra Diara
+- NIM: 11261041
+- Program Studi: Informatika
+- Kontribusi: mengisi profil Tatra.md
